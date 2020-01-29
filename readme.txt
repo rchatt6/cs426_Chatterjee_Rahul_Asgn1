@@ -1,0 +1,3 @@
+My game follows the theme 'What home means to you' because it takes place in a field of flowers with 2 ponds which is very similar to where I am from. 
+There is rotating chocolate located all over the map representing the place where I live which is next to a chocolate factory. There is also a ship and frog representing my interest in sailing and my pet frog that I have.
+My assets are all from the Unity Store from the free assets tab.
